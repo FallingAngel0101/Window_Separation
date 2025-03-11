@@ -9,7 +9,7 @@
 6) Ахмадеева А.И.
    
 # Логика использования нашего плагина: https://clck.ru/3HKJhu
-# Презентация нашего проекта: clck.ru/3HKMCs
+# Презентация нашего проекта: [clck.ru/3HKMCs](https://clck.ru/3HKNNQ)
 ---
 ![photo_2025-02-11_00-08-13](https://github.com/user-attachments/assets/67366358-a39a-4cad-b67c-e0a41ef81b83)
 
