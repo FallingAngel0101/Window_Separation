@@ -128,7 +128,7 @@
 ---
 # 3. Основные функции системы
 
-![Domain](https://github.com/user-attachments/assets/e754f882-37be-4406-9d03-c5cc6260fcbb)
+![Domain](https://github.com/FallingAngel0101/Window_Separation/blob/main/images/Context_diaram.png?raw=true)
 
   
 
