@@ -270,10 +270,10 @@
 
 ## Диаграммы последовательности
 ### 1. Регистрация и оформление подписки
-![seq 1](https://github.com/FallingAngel0101/Window_Separation/blob/main/images/1.jpg?raw=true)
+![seq 1](https://github.com/FallingAngel0101/Window_Separation/blob/main/images/sequence_1.png?raw=true)
 ### 2. Настройка и использование мультиоконного интерфейса  
-![seq 2](https://github.com/FallingAngel0101/Window_Separation/blob/main/images/2.jpg?raw=true)
+![seq 2](https://github.com/FallingAngel0101/Window_Separation/blob/main/images/sequence_2.png?raw=true)
 ### 3. Обратная связь и поддержка    
-![seq 3](https://github.com/FallingAngel0101/Window_Separation/blob/main/images/3.jpg?raw=true)
+![seq 3](https://github.com/FallingAngel0101/Window_Separation/blob/main/images/sequence_3.png?raw=true)
 
 ---
