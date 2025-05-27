@@ -261,9 +261,9 @@
 #### 1 уровень:
 ![level 1](https://github.com/FallingAngel0101/Window_Separation/blob/main/images/C4-1.png?raw=true)
 #### 2 уровень:
-![level 2](https://github.com/FallingAngel0101/Window_Separation/blob/main/images/C4-2.png?raw=true)
+![level 2](https://github.com/FallingAngel0101/Window_Separation/blob/main/images/C4-3.png?raw=true)
 #### 3 уровень:
-![level 3](https://github.com/FallingAngel0101/Window_Separation/blob/main/images/C4-3.png?raw=true)
+![level 3](https://github.com/FallingAngel0101/Window_Separation/blob/main/images/C4-2.png?raw=true)
 
 #### 4 уровень:
 ![level 4](https://github.com/FallingAngel0101/Window_Separation/blob/main/images/C4-4.png?raw=true)
